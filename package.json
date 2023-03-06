@@ -1,15 +1,16 @@
 {
-  "name": "myhookio",
+  "name": "myhook",
   "version": "1.0.0",
-  "description": "Deskripsi proyek",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "license": "MIT",
-  "author": "",
   "dependencies": {
-    "axios": "^0.26.0",
+    "axios": "^1.2.4",
     "express": "^4.17.2"
-  }
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
